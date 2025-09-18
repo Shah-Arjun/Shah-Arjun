@@ -1,13 +1,12 @@
 # 💫 Hi 👋, I'm Arjun Shah
-**A passionate Fullstack Developer || Exploler || Enthusiastic**
+**A passionate Fullstack Developer || Exploler || AI Enthusiastic**
 
 Email Me 👉 ✉️ **arjunsah856@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Fullstack Web Development Projects
-- 🌱 **I’m currently learning:** Mern stack, NextJS
+- 🌱 **I’m currently learning:** Mern stack, NextJS and AI
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** arjunsah856@gmail.com
-- 😄 **Pronouns:** Arjun Sir
+- 📫 **Reach me:** arjunsah856@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
