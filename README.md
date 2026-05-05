@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **arjunsah856@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Fullstack Web Development Projects
-- 🌱 **I’m currently learning:** Mern stack, NextJS and AI
+- 🌱 **I’m currently learning:** AI/ML
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **Reach me at:** arjunsah856@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
