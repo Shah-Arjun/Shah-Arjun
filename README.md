@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arjun Shah
-**A passionate Fullstack Developer || Exploler || AI Enthusiastic**
+**A Fullstack Developer || Exploler || AI/ML Enthusiastic**
 
 Email Me 👉 ✉️ **arjunsah856@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
