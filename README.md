@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Arjun Shah
 **A Fullstack Developer || Exploler || AI/ML Enthusiastic**
 
-Email Me 👉 ✉️ **dev.arjunshah@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dev.arjunshah@gmail.com** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** Fullstack Web Development Projects
 - 🌱 **I’m currently learning:** AI/ML
